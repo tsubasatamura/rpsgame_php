@@ -1,4 +1,4 @@
-#rpsgame_php
+#rpsgame_php<br/>
 アプリケーションの名前：じゃんけんゲームforPHP<br/>
 概要：PHPを使用したじゃんけんゲーム<br/>
 使用技術：PHP　bootstrap　<br/>
